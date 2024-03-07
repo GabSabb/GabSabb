@@ -1,4 +1,4 @@
-- 👋 Another Lebanese in Canada
+- 👋 PhD student at Polytechnique Montréal
 - Building engineer interested in machine learning 🤖
 - Mechanical Engineering Ph.D. Candidate with a Building Engineering Specialization (Polytechnique Montréal)
 - Master of Applied Science in Mechanical Engineering with a Building Engineering Specialization (Polytechnique Montréal)
