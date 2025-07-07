@@ -4,9 +4,3 @@
 - Master of Applied Science in Mechanical Engineering with a Building Engineering Specialization (Polytechnique Montréal)
 - Electromechanical Engineering (École Supérieure d'Ingénieurs de Beyrouth)
 - 📫 gabriel.sabbagh@polymtl.ca
-
-&nbsp;
-&nbsp;
-<a href="https://www.linkedin.com/in/gabsabb/" target="_blanc">
-  
-</a>
