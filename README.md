@@ -8,5 +8,5 @@
 &nbsp;
 &nbsp;
 <a href="https://www.linkedin.com/in/gabsabb/" target="_blanc">
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" alt="LinkedIn Logo" width="50" height="50">
+  
 </a>
